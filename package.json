@@ -1,0 +1,16 @@
+{
+    "name": "chinese-package",
+    "version": "3.1.2",
+    "description": "Personal app for scheduling vocabulary review.",
+    "main": "ChineseSpacedStudy3p0.js",
+    "author": "cameron-unwin",
+    "engines": {
+      "node": "12.18.0"
+    },
+    "dependencies": {
+      "nodemailer": "^6.4.10"
+    },
+    "scripts": {
+      "start": "node ChineseSpacedStudy3p0Git.js"
+    }
+  }
